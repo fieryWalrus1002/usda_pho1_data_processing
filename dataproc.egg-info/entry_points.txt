@@ -2,3 +2,4 @@
 clear-dirs = dataproc.clear_dirs:main
 combine-data = dataproc.combine_data:main
 export-all = dataproc.export_all:main
+gather = dataproc.gather:main

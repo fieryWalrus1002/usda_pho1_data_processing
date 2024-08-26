@@ -4,6 +4,7 @@ dataproc/__init__.py
 dataproc/clear_dirs.py
 dataproc/combine_data.py
 dataproc/export_all.py
+dataproc/gather.py
 dataproc.egg-info/PKG-INFO
 dataproc.egg-info/SOURCES.txt
 dataproc.egg-info/dependency_links.txt
